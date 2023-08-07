@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome">Calculator</string>
+    <string name="firstField">First Number</string>
+    <string name="secondField">Second Number</string>
+    <string name="buttonPlus">+</string>
+    <string name="buttonMinus">-</string>
+    <string name="buttonDivide">/</string>
+    <string name="buttonMultiply">*</string>
+    <string name="firstResultOfSum">0</string>
+    <string name="buttonSupport">Support</string>
+    <string name="buttonDonate">Donate</string>
+    <string name="buttonSecret">Secret</string>
+    <string name="buttonOpenCalculator">Calculator</string>
+</resources>
